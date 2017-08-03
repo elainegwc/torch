@@ -53,7 +53,9 @@ hr {
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 3px;
-    .dropdown {
+
+}
+.dropdown {
     float: left;
     overflow: hidden;
 }
@@ -96,8 +98,6 @@ hr {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-}
-
 .img-full {
     min-width: 100%;
 }
