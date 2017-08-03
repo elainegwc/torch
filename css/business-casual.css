@@ -62,7 +62,7 @@ hr {
     background-color: black;
 }
 
-.container a:hover, .dropdown:hover .dropbtn {
+ a:hover, .dropdown:hover .dropbtn {
     background-color: black;
 }
 
