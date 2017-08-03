@@ -219,7 +219,7 @@ footer p {
             text-align: left;
         }
 
-        .dropdown-content a:hover {
+        .dropdown-content .dropdown:hover {
             background-color: white;
         }
 
