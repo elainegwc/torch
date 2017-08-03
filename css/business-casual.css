@@ -188,7 +188,11 @@ footer p {
             overflow: hidden;
         }
 
-        .dropdown .dropbtn {
+        .dropdown {
+          position: relative;
+          display: inline-block;
+        }
+          .dropbtn {
             font-size: 16px;
             border: none;
             outline: none;
@@ -219,7 +223,7 @@ footer p {
             text-align: left;
         }
 
-        .dropdown-content .dropdown:hover {
+        .dropbtn .dropdown:hover {
             background-color: white;
         }
 
