@@ -68,11 +68,6 @@ hr {
     padding: 14px 16px;
     background-color: inherit;
 }
-
-.container a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
-}
-
 .dropdown-content {
     display: none;
     position: absolute;
