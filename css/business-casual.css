@@ -173,19 +173,16 @@ footer p {
         padding: 35px;
     }
 
-    .navbar-nav>li>a {
+    .navbar-nav>li>a, .dropdown-content {
         line-height: normal;
     }
 
-    .navbar-nav {
+    .navbar-nav, .dropdown-content {
         display: table;
         float: none;
         margin: 0 auto;
         table-layout: fixed;
         font-size: 1.25em;
-        .dropdown {
-            float: left;
-            overflow: hidden;
         }
 
 
